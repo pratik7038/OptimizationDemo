@@ -150,7 +150,7 @@ client and employer confidentiality.
 ## Tech Stack
 - **Language:** Java 17
 - **Framework:** Spring Boot 3.x
-- **Database:** PostgreSQL / MySQL compatible
+- **Database:** Oracle SQL
 - **Data Access:** Spring JDBC Template
 
 ---
