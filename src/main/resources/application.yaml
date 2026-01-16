@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: optimizationDemo
+
+
+server:
+  port: 8091
